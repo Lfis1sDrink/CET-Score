@@ -7,3 +7,8 @@
 python query.py
 ```
 等待即可，默认每个请求之间延迟3s。
+
+
+## demo
+运行截图：
+![Image](./demo.gif)
